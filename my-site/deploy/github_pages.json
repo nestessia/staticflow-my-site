@@ -1,11 +1,17 @@
 {
-  "repo_url": "",
+  "repo_url": "https://github.com/nestessia/staticflow-my-site",
   "branch": "gh-pages",
   "cname": "",
-  "username": "",
-  "email": "",
-  "token": "",
-  "token_encrypted": false,
-  "last_deployment": null,
-  "history": []
+  "username": "nestessia",
+  "email": "nestessia@mail.ru",
+  "token": "gAAAAABoVmt78kUGgvkLUz0qqj4M_WEvFT7d93lAhZK5lcO1BXJ38Dr7iyb-6KQkC7lP7EnNRqnLFRgLpDzhMBc_8RVxDaLskX6jfw3mTW-G81AvCSJLF6OeJRLZs5V51On3I_e39vkY",
+  "token_encrypted": true,
+  "last_deployment": "2025-06-21T11:18:48.073706",
+  "history": [
+    {
+      "timestamp": "2025-06-21T11:18:48.073706",
+      "status": "success"
+    }
+  ],
+  "deploy_mode": "full"
 }
